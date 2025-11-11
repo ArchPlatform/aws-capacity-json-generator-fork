@@ -2,7 +2,7 @@
 
 A web-based tool to simplify the creation of JSON configuration files for the [AWS Thinkbox Deadline Spot Event Plugin](httpss://docs.thinkboxsoftware.com/products/deadline/10.4/1_User%20Manual/manual/event-spot.html).
 
-### [Try the Live Demo](https://deadline-spot-event-generator.netlify.app/)
+### [Try the Live Demo](https://aws-deadline-spot-generator.netlify.app)
 
 ---
 
